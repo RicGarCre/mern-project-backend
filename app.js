@@ -57,7 +57,7 @@ mongoose
     )
     .then(() => {
         console.log('Database connection established');
-        app.listen(5000);
+        app.listen(process.env.PORT || 5000);
     })
     .catch((err) => {
         console.log('Database connection cannot be established:\n' + err);
