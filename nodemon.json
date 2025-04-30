@@ -1,9 +1,0 @@
-{
-    "env": {
-        "DB_NAME": "MERN",
-        "DB_USER": "ricardo",
-        "DB_PASSWORD": "natillas",
-        "GOOGLE_API_KEY": "AIzaSyAHzkc3vq35nN6oOsMwa6dWm8yhPA9prxA",
-        "JWT_KEY": "secret_dont_share"
-    }
-}
